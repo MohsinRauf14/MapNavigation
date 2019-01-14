@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="start_navigation">Start Navigation</string>
+    <!--<string name="com.google.android.geo.API_KEY">AIzaSyA5g5R_Uxv0qPQcRSIuyj_PL0hZIYNOEnU</string>-->
+    <string name="AccessToken">pk.eyJ1Ijoic3Ryb20iLCJhIjoiY2pxa3ptYmExMGllYzQzczF3cDVpN2djMCJ9.vMOA084r6aw_Ud3DUPvPIQ</string>
+
+</resources>
